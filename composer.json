@@ -1,0 +1,18 @@
+{
+    "name": "taalendigitaal/clipboard.js",
+    "description": "Modern copy to clipboard. No Flash. Just 2kb",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "dist/clipboard.js"
+            ],
+            "files": [
+                "dist/clipboard.min.js"
+            ]
+        }
+    }
+}
