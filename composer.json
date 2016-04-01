@@ -6,9 +6,6 @@
         "robloach/component-installer": "*"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "1.5.x-dev"
-        },
         "component": {
             "scripts": [
                 "dist/clipboard.js"
